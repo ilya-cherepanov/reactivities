@@ -1,0 +1,14 @@
+# Get Weather Forecats
+GET http://localhost:3333/weatherforecast HTTP/1.1
+
+###
+
+# Get all activities
+GET http://localhost:3333/api/activities HTTP/1.1
+
+###
+
+# Get one activity
+GET http://localhost:3333/api/activities/437e4a90-0212-44b7-b5b9-7af4e3564a52 HTTP/1.1
+
+###
